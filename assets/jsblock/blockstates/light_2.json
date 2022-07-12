@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "ceiling=true": { "model": "jsblock:block/light_2_ceiling" },
+	"ceiling=false": { "model": "jsblock:block/light_2_ground" }
+  }
+}
