@@ -1,0 +1,68 @@
+{
+	"pids_images": [
+		{
+			"id": "pids_mtr_ad_none",
+			"showWeather": true,
+			"showClock": true,
+			"background": "jsblock:custom_directory/pids_mtr_ad_none.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+		{
+			"id": "pids_mtr_crowded_tml",
+			"showWeather": true,
+			"showClock": true,
+			"background": "jsblock:custom_directory/pids_mtr_crowded_tml.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+		{
+			"id": "pids_mtr_train_delay",
+			"showWeather": false,
+			"showClock": false,
+			"background": "jsblock:custom_directory/pids_mtr_train_delay.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+		{
+			"id": "pids_mtr_train_delay_1",
+			"showWeather": false,
+			"showClock": false,
+			"background": "jsblock:custom_directory/pids_mtr_train_delay_1.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+                        {
+			"id": "nanlingmtr",
+			"showWeather": true,
+			"showClock": true,
+			"background": "jsblock:custom_directory/nanlingmtr.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+                        {
+			"id": "outofservice",
+			"showWeather": true,
+			"showClock": true,
+			"background": "jsblock:custom_directory/outofservice.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+                        {
+			"id": "nanlingpids",
+			"showWeather": false,
+			"showClock": false,
+			"background": "jsblock:custom_directory/nanlingpids.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+                        },
+                        {
+			"id": "zhongdian",
+			"showWeather": true,
+			"showClock": true,
+			"background": "jsblock:custom_directory/zhongdian.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+                        }
+	]
+}
