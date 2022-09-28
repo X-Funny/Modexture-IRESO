@@ -1,7 +1,0 @@
-{
-	"variants": {
-		"": {
-			"model": "mtr:block/train_cargo_unloader"
-		}
-	}
-}

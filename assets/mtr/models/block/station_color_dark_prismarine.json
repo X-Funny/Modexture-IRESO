@@ -1,6 +1,0 @@
-{
-	"parent": "block/leaves",
-	"textures": {
-		"all": "mtr:block/station_color_dark_prismarine"
-	}
-}
