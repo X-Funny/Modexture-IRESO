@@ -1,5 +1,5 @@
 {
-	"credit": "CoJ 2022",
+	"credit": "DoJ 2022",
 	"texture_size": [16, 32],
 	"textures": {
 		"0": "jsblock:block/helpline_2",
@@ -174,6 +174,7 @@
 		{
 			"from": [4, 0, 6],
 			"to": [12, 16, 7],
+			"shade": false,
 			"faces": {
 				"north": {"uv": [2.625, 0, 16, 16], "texture": "#1"},
 				"east": {"uv": [0, 0, 2.375, 16], "texture": "#1"},
