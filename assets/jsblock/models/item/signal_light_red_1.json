@@ -1,6 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "jsblock:item/constant_red_signal_1"
-  }
-}

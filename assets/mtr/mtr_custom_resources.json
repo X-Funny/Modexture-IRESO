@@ -1,0 +1,133 @@
+{
+	"custom_signs": {
+		"icon_yrt": {
+			"texture_id": "mtr:custom_directory/icon_yrt.png",
+			"flip_texture": false,
+			"custom_text": "叶舟地铁|Yezhou Metro",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"icon_yrt_flip": {
+			"texture_id": "mtr:custom_directory/icon_yrt.png",
+			"flip_texture": false,
+			"custom_text": "叶舟地铁|Yezhou Metro",
+			"flip_custom_text": true,
+			"small": true
+
+		},
+		"icon_yrt_1": {
+			"texture_id": "mtr:custom_directory/icon_yrt.png",
+			"small": true
+		},
+		"icon_nangang": {
+			"texture_id": "mtr:custom_directory/icon_nangang.png",
+			"flip_texture": false,
+			"custom_text": "南港地铁|Nanling MTR",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"icon_nangang_flip": {
+			"texture_id": "mtr:custom_directory/icon_nangang.png",
+			"flip_texture": false,
+			"custom_text": "南港地铁|Nanling MTR",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"icon_nangang_1": {
+			"texture_id": "mtr:custom_directory/icon_nangang.png",
+			"small": true
+		},
+		"airchina": {
+			"texture_id": "mtr:custom_directory/airchina.png",
+			"flip_texture": false,
+			"custom_text": "中国国际航空|Air China",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"airchina_flip": {
+			"texture_id": "mtr:custom_directory/airchina.png",
+			"flip_texture": false,
+			"custom_text": "中国国际航空|Air China",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"airchina_1": {
+			"texture_id": "mtr:custom_directory/airchina.png",
+			"small": true
+		},
+		"csair": {
+			"texture_id": "mtr:custom_directory/csair.png",
+			"flip_texture": false,
+			"custom_text": "中国南方航空|China Southern",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"csair_flip": {
+			"texture_id": "mtr:custom_directory/csair.png",
+			"flip_texture": false,
+			"custom_text": "中国南方航空|China Southern",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"csair_1": {
+			"texture_id": "mtr:custom_directory/csair.png",
+			"small": true
+		},
+		"ana": {
+			"texture_id": "mtr:custom_directory/ana.png",
+			"flip_texture": false,
+			"custom_text": "全日空|All Nippon Airways",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"ana_flip": {
+			"texture_id": "mtr:custom_directory/ana.png",
+			"flip_texture": false,
+			"custom_text": "全日空|All Nippon Airways",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"ana_1": {
+			"texture_id": "mtr:custom_directory/ana.png",
+			"small": true
+		},
+		"juneyao": {
+			"texture_id": "mtr:custom_directory/juneyao.png",
+			"flip_texture": false,
+			"custom_text": "吉祥航空|Juneyao Air",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"juneyao_flip": {
+			"texture_id": "mtr:custom_directory/juneyao.png",
+			"flip_texture": false,
+			"custom_text": "吉祥航空|Juneyao Air",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"juneyao_1": {
+			"texture_id": "mtr:custom_directory/juneyao.png",
+			"small": true
+		}
+	},
+	"custom_trains": {
+		"m_train_wuhu_line": {
+			"name": "M-Train 五湖线",
+			"color": "FF0000",
+			"base_train_type": "m_train",
+			"texture_id": "mtr:custom_directory/m_train_wuhu_line.png"
+		},
+		"m_train_wuhu_line_small": {
+			"name": "M-Train 五湖线（小型）",
+			"color": "FF0000",
+			"base_train_type": "m_train_small",
+			"texture_id": "mtr:custom_directory/m_train_wuhu_line.png"
+		},
+		"m_train_wuhu_line_mini": {
+			"name": "M-Train 五湖线（迷你）",
+			"color": "FF0000",
+			"base_train_type": "m_train_mini",
+			"texture_id": "mtr:custom_directory/m_train_wuhu_line.png"
+		}
+	}
+}
