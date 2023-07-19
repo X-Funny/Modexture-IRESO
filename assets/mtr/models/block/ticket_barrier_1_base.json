@@ -3,11 +3,11 @@
 	"parent": "block/block",
 	"textures": {
 		"9": "mtr:block/black",
-		"10": "mtr:sign/cross",
+		"10": "mtr:block/sign/cross",
 		"11": "block/iron_block",
 		"yellow": "block/yellow_concrete",
 		"ticket": "mtr:block/ticket_processor",
-		"arrow": "mtr:sign/arrow_down_left",
+		"arrow": "mtr:block/sign/arrow_down_left",
 		"particle": "mtr:block/metal"
 	},
 	"elements": [
