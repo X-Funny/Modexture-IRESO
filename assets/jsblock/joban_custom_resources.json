@@ -4,12 +4,7 @@
 			"id": "pids_mtr_ad_none",
 			"showWeather": true,
 			"showClock": true,
-			"hideRow": [
-				true,
-				true,
-				true,
-				false
-			],
+			"hideRow": [true, true, true, false],
 			"background": "jsblock:custom_directory/pids_mtr_ad_none.png",
 			"fonts": "mtr:mtr",
 			"color": "1a2a41"
@@ -18,13 +13,43 @@
 			"id": "pids_mtr_crowded_tml",
 			"showWeather": true,
 			"showClock": true,
-			"hideRow": [
-				true,
-				true,
-				true,
-				false
-			],
+			"hideRow": [true, true, true, false],
 			"background": "jsblock:custom_directory/pids_mtr_crowded_tml.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+		{
+			"id": "pids_mtr_train_delay",
+			"showWeather": false,
+			"showClock": false,
+			"background": "jsblock:custom_directory/pids_mtr_train_delay.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+		{
+			"id": "pids_mtr_train_delay_1",
+			"showWeather": false,
+			"showClock": false,
+			"hideRow": [true, true, true, false],
+			"background": "jsblock:custom_directory/pids_mtr_train_delay_1.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+                {
+			"id": "nanlingmtr",
+			"showWeather": true,
+			"showClock": true,
+			"hideRow": [true, true, true, false],
+			"background": "jsblock:custom_directory/nanlingmtr.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+		{
+			"id": "nanlingmetro",
+			"showWeather": true,
+			"showClock": true,
+			"hideRow": [true, true, true, false],
+			"background": "jsblock:custom_directory/nanlingmetro.png",
 			"fonts": "mtr:mtr",
 			"color": "1a2a41"
 		},
@@ -32,27 +57,26 @@
 			"id": "outofservice",
 			"showWeather": true,
 			"showClock": true,
-			"hideRow": [
-				true,
-				true,
-				true,
-				false
-			],
+			"hideRow": [true, true, true, false],
 			"background": "jsblock:custom_directory/outofservice.png",
 			"fonts": "mtr:mtr",
 			"color": "1a2a41"
 		},
 		{
-			"id": "zhongdian",
+			"id": "nanlingpids",
+			"showWeather": false,
+			"showClock": true,
+			"hideRow": [true, true, true, false],
+			"background": "jsblock:custom_directory/nanlingpids.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+                },
+		{
+			"id": "terminal",
 			"showWeather": true,
 			"showClock": true,
-			"hideRow": [
-				true,
-				true,
-				true,
-				false
-			],
-			"background": "jsblock:custom_directory/zhongdian.png",
+			"hideRow": [true, true, true, false],
+			"background": "jsblock:custom_directory/terminal.png",
 			"fonts": "mtr:mtr",
 			"color": "1a2a41"
 		},
@@ -60,12 +84,7 @@
 			"id": "alert",
 			"showWeather": false,
 			"showClock": false,
-			"hideRow": [
-				true,
-				true,
-				true,
-				true
-			],
+			"hideRow": [true, true, true, true],
 			"background": "jsblock:custom_directory/alert.png",
 			"fonts": "mtr:mtr",
 			"color": "1a2a41"
@@ -74,12 +93,7 @@
 			"id": "unfellcn",
 			"showWeather": true,
 			"showClock": true,
-			"hideRow": [
-				true,
-				true,
-				true,
-				false
-			],
+			"hideRow": [true, true, true, false],
 			"background": "jsblock:custom_directory/unfellcn.png",
 			"fonts": "mtr:mtr",
 			"color": "1a2a41"
@@ -88,13 +102,35 @@
 			"id": "unfellen",
 			"showWeather": true,
 			"showClock": true,
-			"hideRow": [
-				true,
-				true,
-				true,
-				false
-			],
+			"hideRow": [true, true, true, false],
 			"background": "jsblock:custom_directory/unfellen.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+		{
+			"id": "usephone",
+			"showWeather": true,
+			"showClock": true,
+			"hideRow": [true, true, true, false],
+			"background": "jsblock:custom_directory/usephone.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+		{
+			"id": "binhainewcar",
+			"showWeather": true,
+			"showClock": true,
+			"hideRow": [true, true, true, false],
+			"background": "jsblock:custom_directory/binhainewcar.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+		{
+			"id": "beilinpids",
+			"showWeather": false,
+			"showClock": true,
+			"hideRow": [true, true, true, false],
+			"background": "jsblock:custom_directory/beilinpids.png",
 			"fonts": "mtr:mtr",
 			"color": "1a2a41"
 		},
@@ -102,12 +138,7 @@
 			"id": "needseat",
 			"showWeather": true,
 			"showClock": true,
-			"hideRow": [
-				true,
-				true,
-				true,
-				false
-			],
+			"hideRow": [true, true, true, false],
 			"background": "jsblock:custom_directory/needseat.png",
 			"fonts": "mtr:mtr",
 			"color": "1a2a41"
@@ -116,156 +147,163 @@
 			"id": "bsod",
 			"showWeather": false,
 			"showClock": false,
-			"hideRow": [
-				true,
-				true,
-				true,
-				true
-			],
+			"hideRow": [true, true, true, true],
 			"background": "jsblock:custom_directory/bsod.png",
 			"fonts": "mtr:mtr",
 			"color": "1a2a41"
 		},
-		
-		
-		
-		
-		
-		
-		
-		
-		
 		{
-			"id": "nanlingmetro",
+			"id": "dangeritem",
 			"showWeather": true,
 			"showClock": true,
-			"hideRow": [
-				true,
-				true,
-				true,
-				false
-			],
-			"background": "jsblock:custom_directory/nanlingmetro.png",
+			"hideRow": [true, true, true, false],
+			"background": "jsblock:custom_directory/dangeritem.png",
 			"fonts": "mtr:mtr",
 			"color": "1a2a41"
 		},
 		{
-			"id": "outofservice_nanlingmetro",
+			"id": "nanlingmetro1",
 			"showWeather": true,
 			"showClock": true,
-			"hideRow": [
-				true,
-				true,
-				true,
-				false
-			],
-			"background": "jsblock:custom_directory/outofservice_nanlingmetro.png",
+			"hideRow": [true, true, true, false],
+			"background": "jsblock:custom_directory/nanlingmetro1.png",
 			"fonts": "mtr:mtr",
 			"color": "1a2a41"
 		},
 		{
-			"id": "pids_mtr_ad_none_nanlingmetro",
-			"showWeather": true,
-			"showClock": true,
-			"hideRow": [
-				true,
-				true,
-				true,
-				false
-			],
-			"background": "jsblock:custom_directory/pids_mtr_ad_none_nanlingmetro.png",
-			"fonts": "mtr:mtr",
-			"color": "1a2a41"
-		},		
-		{
-			"id": "nanlingpids",
+			"id": "nanlingmtr1",
 			"showWeather": false,
 			"showClock": true,
-			"hideRow": [
-				true,
-				true,
-				true,
-				false
-			],
-			"background": "jsblock:custom_directory/nanlingpids.png",
-			"fonts": "mtr:mtr",
-			"color": "1a2a41"
-		},
-		
-		
-		
-		
-
-
-
-		
-		
-		{
-			"id": "binhainewcar",
-			"showWeather": true,
-			"showClock": true,
-			"hideRow": [
-				true,
-				true,
-				true,
-				false
-			],
-			"background": "jsblock:custom_directory/binhainewcar.png",
+			"hideRow": [false, false, false, true],
+			"background": "jsblock:custom_directory/nanlingmtr1.png",
 			"fonts": "mtr:mtr",
 			"color": "1a2a41"
 		},
 		{
-			"id": "nanlingmtr",
+			"id": "nanlingmetro2",
 			"showWeather": false,
 			"showClock": true,
-			"hideRow": [
-				false,
-				false,
-				false,
-				true
-			],
-			"background": "jsblock:custom_directory/nanlingmtr.png",
+			"hideRow": [false, false, false, true],
+			"background": "jsblock:custom_directory/nanlingmetro2.png",
 			"fonts": "mtr:mtr",
 			"color": "1a2a41"
 		},
-		
-		
-		
-
-
-
-
-		
-		
+		{
+			"id": "traintocity",
+			"showWeather": true,
+			"showClock": true,
+			"hideRow": [true, true, true, false],
+			"background": "jsblock:custom_directory/traintocity.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+		{
+			"id": "traintoairport",
+			"showWeather": true,
+			"showClock": true,
+			"hideRow": [true, true, true, false],
+			"background": "jsblock:custom_directory/traintoairport.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+		{
+			"id": "door_closing",
+			"showWeather": true,
+			"showClock": true,
+			"hideRow": [true, true, true, false],
+			"background": "jsblock:custom_directory/door_closing.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+		{
+			"id": "mind_the_gap",
+			"showWeather": true,
+			"showClock": true,
+			"hideRow": [true, true, true, false],
+			"background": "jsblock:custom_directory/mind_the_gap.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+		{
+			"id": "reportcrime",
+			"showWeather": true,
+			"showClock": true,
+                        "hideRow": [true, true, true, false],
+			"background": "jsblock:custom_directory/reportcrime.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+		{
+			"id": "unfellnew",
+			"showWeather": true,
+			"showClock": true,
+                        "hideRow": [true, true, true, false],
+			"background": "jsblock:custom_directory/unfellnew.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+		{
+			"id": "usephone_1",
+			"showWeather": true,
+			"showClock": true,
+                        "hideRow": [true, true, true, false],
+			"background": "jsblock:custom_directory/usephone_1.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+		{
+			"id": "no_service",
+			"showWeather": false,
+			"showClock": false,
+                        "hideRow": [true, true, true, true],
+			"background": "jsblock:custom_directory/no_service.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+		{
+			"id": "airportdealy",
+			"showWeather": true,
+			"showClock": true,
+                        "hideRow": [true, true, true, false],
+			"background": "jsblock:custom_directory/pids_mtr_crowded_ael.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+		{
+			"id": "ael_singal_error",
+			"showWeather": false,
+			"showClock": false,
+                        "hideRow": [true, true, true, true],
+			"background": "jsblock:custom_directory/ael_singal_error.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+		},
+		{
+			"id": "nanlingpids_1",
+			"showWeather": false,
+			"showClock": true,
+                        "hideRow": [true, true, true, false],
+			"background": "jsblock:custom_directory/nanlingpids_1.png",
+			"fonts": "mtr:mtr",
+			"color": "1a2a41"
+                },
 		{
 			"id": "beilinpids",
 			"showWeather": false,
 			"showClock": true,
-			"hideRow": [
-				true,
-				true,
-				true,
-				false
-			],
+                        "hideRow": [true, true, true, false],
 			"background": "jsblock:custom_directory/beilinpids.png",
 			"fonts": "mtr:mtr",
 			"color": "1a2a41"
-		},
+                },
 		{
-			"id": "nanlingmetro_beiling",
+			"id": "pids_mtr_crowded_6car",
 			"showWeather": false,
 			"showClock": true,
-			"hideRow": [
-				true,
-				true,
-				true,
-				false
-			],
-			"background": "jsblock:custom_directory/nanlingmetro_beiling.png",
+                        "hideRow": [true, true, true, false],
+			"background": "jsblock:custom_directory/pids_mtr_crowded_6car.png",
 			"fonts": "mtr:mtr",
 			"color": "1a2a41"
-		}
-		
-		
+                },
 	]
 }
